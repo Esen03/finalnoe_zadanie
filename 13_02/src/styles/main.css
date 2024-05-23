@@ -1,0 +1,28 @@
+.title{
+    color: blueviolet;
+    
+}
+
+.box{
+    width: 600px;
+    height: 500px;
+    border: 1px solid blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.black{
+    background-color: black;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.box button{
+    padding: 10px 15px;
+    border: 0;
+    background-color: cadetblue;
+
+}

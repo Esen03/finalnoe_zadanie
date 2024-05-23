@@ -1,0 +1,219 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "imgUrl": "https://www.w3schools.com/w3images/woods.jpg",
+      "title": "TITLE HEADING",
+      "titleDesc": "Title description,",
+      "createDate": "April 7, 2014",
+      "desc": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.",
+      "countComments": 0
+    },
+    {
+      "id": "2",
+      "imgUrl": "https://www.w3schools.com/w3images/bridge.jpg",
+      "title": "BLOG ENTRY",
+      "titleDesc": "Title description,",
+      "createDate": "April 2, 2014",
+      "desc": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.",
+      "countComments": 2
+    },
+    {
+      "id": "3",
+      "imgUrl": "https://www.w3schools.com/w3images/bridge.jpg",
+      "title": "New Blog",
+      "titleDesc": "Super description,",
+      "createDate": "September 11, 2006",
+      "desc": "Mauris neque quam, fermentum ut nisl vitae, convallis maximus nisl. Sed mattis nunc id lorem euismod placerat. Vivamus porttitor magna enim, ac accumsan tortor cursus at. Phasellus sed ultricies mi non congue ullam corper. Praesent tincidunt sed tellus ut rutrum. Sed vitae justo condimentum, porta lectus vitae, ultricies congue gravida diam non fringilla.",
+      "countComments": 13
+    },
+    {
+      "id": "eb41",
+      "title": "new post",
+      "titleDesc": "New po0000000sr",
+      "imgUrl": "imgurlsdsdksjdskdjs/sdsdsd/sdsdsdsd",
+      "desc": "scscscscs",
+      "countComments": 0,
+      "comments": "2024-05-04T09:12:31.348Z"
+    },
+    {
+      "id": "8857",
+      "title": "new post",
+      "titleDesc": "new POoosr",
+      "imgUrl": "sdksdsdsdsfsf",
+      "desc": "dfdfdfdfd",
+      "countComments": 0,
+      "comments": "2024-05-04T09:14:45.912Z"
+    },
+    {
+      "id": "e9da",
+      "title": "",
+      "titleDesc": "",
+      "imgUrl": "",
+      "desc": "",
+      "countComments": 0,
+      "comments": "2024-05-04T09:21:31.612Z"
+    },
+    {
+      "id": "9d1b",
+      "title": "еуе",
+      "titleDesc": "уеуе",
+      "imgUrl": "уеу",
+      "desc": "еуее",
+      "countComments": 0,
+      "comments": "2024-05-04T09:23:38.998Z",
+      "tags": [
+        "popularPosts"
+      ]
+    },
+    {
+      "id": "798d",
+      "title": "акук",
+      "titleDesc": "куку",
+      "imgUrl": "уку",
+      "desc": "кук",
+      "countComments": 0,
+      "comments": "2024-05-04T09:33:49.446Z"
+    },
+    {
+      "id": "f8d4",
+      "title": "rer",
+      "titleDesc": "erer",
+      "imgUrl": "reer",
+      "desc": "efer",
+      "countComments": 0,
+      "comments": "2024-05-04T09:48:01.303Z"
+    },
+    {
+      "id": "ac6c",
+      "title": "fdf",
+      "titleDesc": "dfdf",
+      "imgUrl": "dfd",
+      "desc": "fdsdf",
+      "countComments": 0,
+      "comments": "2024-05-04T09:48:29.365Z"
+    },
+    {
+      "id": "502b",
+      "title": "title",
+      "titleDesc": "newTitleDesc",
+      "imgUrl": "img///sdsdsddsd",
+      "desc": "lore, imewsdd",
+      "countComments": 0,
+      "comments": "2024-05-04T10:01:42.657Z"
+    },
+    {
+      "id": "8b1d",
+      "title": "cvcv",
+      "titleDesc": "vcvc",
+      "imgUrl": "cvc",
+      "desc": "dvcv",
+      "countComments": 0,
+      "comments": "2024-05-04T10:02:30.018Z"
+    },
+    {
+      "id": "6862",
+      "title": "чсчс",
+      "titleDesc": "сч",
+      "imgUrl": "сы",
+      "desc": "выава",
+      "countComments": 0,
+      "comments": "2024-05-04T10:07:05.826Z"
+    },
+    {
+      "id": "e0e9",
+      "title": "",
+      "titleDesc": "екеке",
+      "imgUrl": "кеке",
+      "desc": "кеке",
+      "countComments": 0,
+      "comments": "2024-05-04T10:12:19.354Z"
+    },
+    {
+      "id": "4cee",
+      "title": "",
+      "titleDesc": "",
+      "imgUrl": "",
+      "desc": "v",
+      "countComments": 0,
+      "comments": "2024-05-04T10:13:18.402Z"
+    },
+    {
+      "id": "4586",
+      "title": "dvv",
+      "titleDesc": "dvdv",
+      "imgUrl": "dvd",
+      "desc": "cccvcv",
+      "countComments": 0,
+      "comments": "2024-05-04T10:20:22.826Z"
+    }
+  ],
+  "popularPosts": [
+    {
+      "imgUrl": "https://www.w3schools.com/w3images/workshop.jpg",
+      "title": "Lorem",
+      "desc": "Sed mattis nunc",
+      "id": "8d08"
+    },
+    {
+      "imgUrl": "https://www.w3schools.com/w3images/gondol.jpg",
+      "title": "Ipsum",
+      "desc": "Praes tinci sed",
+      "id": "6831"
+    },
+    {
+      "imgUrl": "https://www.w3schools.com/w3images/skies.jpg",
+      "title": "Dorum",
+      "desc": "Ultricies congue",
+      "id": "cbcf"
+    },
+    {
+      "imgUrl": "https://www.w3schools.com/w3images/rock.jpg",
+      "title": "Mingsum",
+      "desc": "Lorem ipsum dipsum",
+      "id": "6815"
+    }
+  ],
+  "tags": [
+    {
+      "id": "3",
+      "name": "London"
+    },
+    {
+      "id": "4",
+      "name": "IKEA"
+    },
+    {
+      "id": "5",
+      "name": "NORWAY"
+    },
+    {
+      "id": "8",
+      "name": "Baby"
+    },
+    {
+      "id": "9",
+      "name": "Family"
+    },
+    {
+      "id": "10",
+      "name": "News"
+    },
+    {
+      "id": "11",
+      "name": "Clothing"
+    },
+    {
+      "id": "12",
+      "name": "Shopping"
+    },
+    {
+      "id": "13",
+      "name": "Sports"
+    },
+    {
+      "id": "14",
+      "name": "Games"
+    }
+  ]
+}
